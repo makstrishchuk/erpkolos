@@ -1,0 +1,42 @@
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+
+# Logs
+*.log
+server_unified.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp/backup files
+*.bak
+*.tmp
+tmp_*
+
+# Large archives
+*.tar.gz
+*.zip
+
+# Sensitive data
+clients/
+lieferscheine/
+keep_clients.csv
+kundenliste_export*.csv
+printed_auftraege.json
+stock_state.json

@@ -1,0 +1,94 @@
+﻿article_nr,name,min_positive_sales_4_mondays,min_batch_size,old_min_stock,new_min_stock,changed
+05120,"Torte mit Kakao und Baiser Feniks"" - Klein""",10,6,10,10,0
+05121,"Biskuit Torte mit Marshmallow Füllung Jablochnij Zvet"" - Klein""",14,6,14,14,0
+05122,"Biskuit Torte mit aromatisierter Fruchtfüllung Hrizontema"" - Klein""",15,6,15,15,0
+05126,"Biskuit Torte mit gezuckerter Kondensmilch-Creme und Erdnüssen Orehowij"" - Klein""",11,6,11,11,0
+05127,"Torte Praga"" - Klein""",21,6,21,21,0
+05128,Red Velvet klein,30,6,30,30,0
+05129,Red Velvet Nareznoe,54,6,54,54,0
+05130,"Torte Tag und Nacht"" - Klein""",12,1,12,12,0
+05500,"Napoleon"" Blätterteig mit Creme""",34,3,34,34,0
+05501,"Medowik"" Rührkuchen mit Erdnüssen""",123,20,123,123,0
+05502,"Napoleon"" Blätterteig mit Creme",43,8,43,43,0
+05504,"Nareznoe"" Cremeschnitte""",105,6,105,105,0
+05505,"Ptichye Moloko"" Schaumzucker Torte""",15,28,28,28,0
+05506,"Jablochnij Zvet"" Biskuit Torte mit Schaumzuckerschicht""",19,1,19,19,0
+05507,"Mischutka"" Rührkuchen mit Fruchtfüllung""",26,12,26,26,0
+05508,"Medved"" Rührkuchen mit Fruchtfüllung""",12,4,12,12,0
+05510,"Medowik"" Domaschnij Rührkuchen mit gezuckerter Kondensmilch""",92,20,92,92,0
+05511,"Biskuit Torte Naked Cake""""",2,6,6,6,0
+05512,"Orehowij"" Biskuit Torte mit Erdnüssen""",7,1,7,7,0
+05514,"Torzhestwini"" Biskuit Torte mit aromatisierter Fruchtfüllung""",11,1,11,11,0
+05515,"Snegurotschka"" Biskuit Torte""",8,1,8,8,0
+05516,"Nezhnij"" Biskuit Torte""",25,1,25,25,0
+05518,"Kartinka"" Biskuit Torte""",14,1,14,14,0
+05519,"Kartinka"" Biskuit Torte""",15,1,15,15,0
+05521,"Jubilejnyj"" Biskuit Torte""",27,1,27,27,0
+05522,"Jubilejnyj"" Biskuit Torte""",22,1,22,22,0
+05524,"Kiev"" Baiser Torte""",14,1,14,14,0
+05525,"Sonderbestellung Zakaznoj""""",1,1,1,1,0
+05526,"Hrizontema"" Biskuit Torte mit aromatisierter Fruchtfüllung""",13,1,13,13,0
+05529,"Schoko-Biskuit-Torte Caramel and Peanut""- klein""",18,1,18,18,0
+05530,"Kartoschka"" Törtchen""",199,288,288,288,0
+05531,"Ptscholka"" Rührkuchenschnitte mit Dekor""",81,20,81,81,0
+05532,"Korzinka"" Sandgebäck-Körbchen mit Baiser""",144,9,144,144,0
+05533,"Gribotschki"" Sandgebäck-Körbchen mit Creme""",30,9,30,30,0
+05534,"Zawarnoe"" Brandteiggebäck mit Creme""",48,12,48,48,0
+05535,"Persik"" Sandgebäck mit gezuckerter Kondensmilch""",15,1,15,15,0
+05536,"Rulet Oreh"" Biskuitrolle mit Erdnüssen""",28,1,28,28,0
+05538,"Rulet Dzem"" Biskuitrolle mit aromatisierter Fruchtfüllung""",26,1,26,26,0
+05539,Trubotchki - Blätterteigrollen mit Baiser,24,1,24,24,0
+05540,"Medowik"" Rührkuchen mit Trockenpflaumen""",104,1,104,104,0
+05541,"Medowik"" Domaschnij Rührkuchen mit gezuckerter Kondensmilch""",61,1,61,61,0
+05542,"Torte Honigkuchen Medowik Classic""""",65,1,65,65,0
+05543,"Torte Honigkuchen Medowik Classic""""",127,20,127,127,0
+05545,"Biskuit Torte Trickfilm""""",4,1,4,4,0
+05546,"Brandteig mit Creme Zawarnoe po Domaschnemu""""",44,12,44,44,0
+05548,"Cremeschnitte Nareznoe po Domaschnemu""""",64,6,64,64,0
+05549,"Biskuitrolle mit Creme Rulet po Domaschnemu""""",24,6,24,24,0
+05551,"Schoko-Biskuit-Torte Caramel and Peanut""""",6,6,6,6,0
+05560,"Schoko-Biskuit-Torte Vostok""- klein""",7,6,7,7,0
+05561,"Schoko-Biskuit-Torte Caramel and Peanut""  für Thekenverkauf """,1,1,1,1,0
+05567,Mini Persiki,45,1,45,45,0
+05568,"Saison"" Biskuit Torte klein""",2,6,6,6,0
+05570,"Törtchen ""Red Velvet""",74,1,74,74,0
+05571,Törtchen mit Creme mit gezuckerter Kondensmilch,45,100,100,100,0
+05572,"Torte mit Kakao und Baiser Feniks""""",14,6,14,14,0
+05573,"Torte Praga""""",21,6,21,21,0
+05574,"Torte Tag und Nacht""""",9,6,9,9,0
+05590,"Kartoschka"" Törtchen mit Füllung""",75,100,100,100,0
+05670,"Essbare Tortenaufleger ""PAW PATROL"" klein 5,8 cm",1,1,1,1,0
+05676,"Oreschki"" mit gekochter gezuckerter Kondensmilchfüllung""",97,20,97,97,0
+05683,"Gebäckhälften Oreschki""""",5,20,20,20,0
+05689,"Blätterteig mit Creme Napoleon"" Classic, für Thekenverkauf""",2,1,2,2,0
+05690,"Blätterteig mit Creme Napoleon"" Domaschnij, für Thekenverkauf""",1,1,1,1,0
+05691,"Gebäck ""Persik"" mit gezuckerter Kondensmilch, für Thekenverkauf",1,1,1,1,0
+05693,"Gebäck Kartoschka"", für Thekenverkauf""",1,6,6,6,0
+05694,"Biskuittorte Hrizontema"", für Thekenverkauf""",1,1,1,1,0
+05695,"Biskuittorte Jablochnij Zvet"", für Thekenverkauf""",1,1,1,1,0
+05696,"Biskuittorte Jubileynij"", für Thekenverkauf""",1,1,1,1,0
+05697,"Biskuittorte Praga"", für Thekenverkauf""",2,1,2,2,0
+05698,"Biskuittorte Ptichye Moloko"", für Thekenverkauf""",1,1,1,1,0
+05725,"Biskuitrolle Rulet"" Kakao, für Thekenverkauf""",2,1,1,2,1
+05786,"Biskuitrolle Rulet"" Dzem, für Thekenverkauf""",1,1,1,1,0
+05789,"Biskuitrolle Rulet"" Haselnuss, für Thekenverkauf""",1,1,1,1,0
+05790,"Rührkuchen Medowik"" Domaschnij, für Thekenverkauf""",1,4,4,4,0
+05791,"Rührkuchen Medowik"" Erdnuss, für Thekenverkauf""",1,1,1,1,0
+05792,"Rührkuchen Medowik"" Classic, für Thekenverkauf""",1,4,4,4,0
+05793,"Rührkuchen ""Medowik"" Trockenpflaume, für Thekenverkauf",1,1,1,1,0
+05794,"Gebäck Oreschki"" mit gezuckerter Kondensmilchfüllung, für Thekenverkauf""",2,5,5,5,0
+05795,"Törtchen mit Creme mit gezuckerter Kondensmilch, für Thekenverkauf",1,1,1,1,0
+05801,"Kleine Schaumzuckertorte Ptichye Moloko""""",14,6,14,14,0
+05863,"Biskuittorte Tag und Nacht"", für Thekenverkauf""",1,1,1,1,0
+09993,Mautgebühr,2,1,2,2,0
+95730,Geburtstagskerze Comic No 0,1,1,1,1,0
+95731,Geburtstagskerze Comic No 1,1,1,1,1,0
+95732,Geburtstagskerze Comic No 2,1,1,1,1,0
+95733,Geburtstagskerze Comic No 3,1,1,1,1,0
+95734,Geburtstagskerze Comic No 4,1,1,1,1,0
+95735,Geburtstagskerze Comic No 5,1,1,1,1,0
+95736,Geburtstagskerze Comic No 6,1,1,1,1,0
+95737,Geburtstagskerze Comic No 7,1,1,1,1,0
+95739,Geburtstagskerze Comic No 9,1,1,1,1,0
+95751,Farbige Geburtstagskerzen mit Halterung,1,1,1,1,0
+95778,"Geburtstagskerzen EINHORN MIX""""",1,1,1,1,0

@@ -1,0 +1,25 @@
+[Unit]
+Description=WISO GoLabel Unified Server
+After=network.target
+
+[Service]
+Type=simple
+User=wiso
+Group=wiso
+WorkingDirectory=/opt/wiso-golabel
+EnvironmentFile=/etc/wiso-golabel.env
+ExecStart=/opt/wiso-golabel/.venv/bin/python /opt/wiso-golabel/start_server_nogui.py
+Restart=always
+RestartSec=3
+StandardOutput=journal
+StandardError=journal
+
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+ReadWritePaths=/opt/wiso-golabel /var/lib/wiso-golabel
+
+[Install]
+WantedBy=multi-user.target
