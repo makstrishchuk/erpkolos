@@ -34,9 +34,24 @@ tmp_*
 *.zip
 
 # Sensitive data
-clients/
 lieferscheine/
 keep_clients.csv
 kundenliste_export*.csv
 printed_auftraege.json
 stock_state.json
+
+# Logo / static assets
+logo.ico
+logo.png
+logo_Monolith_Bakery.png
+
+# Statistics folder
+statistik/
+
+# Backup files
+*.bak*
+*.bak_*
+
+# Client pycache and icons
+clients/__pycache__/
+clients/_ui_icons/
